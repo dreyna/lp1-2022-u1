@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+}
+h3{
+    background-color: aquamarine;
+}
+.caja{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgb(184, 183, 183);
+    margin: 10px 0px;
+    padding-left: 10px;
+    color: rgb(9, 99, 183);
+}
+.boton{
+    width: 210px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid rgb(184, 183, 183);
+    margin: 10px 0px;
+    background-color: rgb(5, 43, 70);
+    color: white; 
+}

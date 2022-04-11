@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url("/imagenes/fondo.jpg");
+    background-size: cover;
+    z-index: 1;
+    opacity: 0.6;
+}
+
+.caja{
+    width: 250px;/*anhco del elemento*/
+    height: 30px;/*alto del elemento*/
+    border-radius: 5px; /*esquinas redondeados del elemento*/
+    border: 2px solid rgb(189, 188, 188); /*Color del borde*/
+    padding-left: 10px; /*espacio a la derecha del texto de la página*/
+}
+.boton{
+    width: 270px;
+    height: 45px;
+    border-radius: 5px;
+    border: 2px solid rgb(189, 188, 188);
+    background-color: rgb(8, 85, 133);
+    color: white;
+}

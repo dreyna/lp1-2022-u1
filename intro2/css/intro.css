@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 900px;
+    height: 150px;
+    background-color: brown;
+    margin: 0 auto;
+}
+nav, footer{
+    width: 900px;
+    height: 50px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+.central{
+    width: 900px;
+    height: 400px;
+    background-color: cadetblue;
+    margin: 0 auto;
+    display: flex;
+}
+.caja{
+    width: 290px;
+    height: 400px;
+    background-color: chartreuse;
+    margin-right: 10px;
+}
