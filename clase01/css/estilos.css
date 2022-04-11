@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 400px;
+    height: 500px;
+    border: 1px solid rgb(199, 197, 197);
+    border-radius: 20px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+.caja{
+    width: 350px;
+    height: 40px;
+    border: 1px solid rgb(153, 152, 152);
+    padding-left: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.boton{
+    width: 350px;
+    height: 50px;
+    border: 1px solid rgb(153, 152, 152);
+    padding-left: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: rgb(5, 39, 97);
+    color: white;
+    font-size: 18px;
+}
