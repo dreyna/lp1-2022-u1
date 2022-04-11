@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    width: 100%;
+    background-color: rgb(114, 179, 244);
+    margin: 0 auto;
+    height: 50px;
+    padding: 0px 100px;
+    box-sizing: border-box;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0px 10px; 
+    color: rgb(7, 32, 89);   
+}
+a:hover{
+    background-color: rgb(10, 75, 166);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
